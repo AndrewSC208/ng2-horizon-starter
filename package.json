@@ -1,0 +1,11 @@
+{
+  "name": "ng2-horizon-starter",
+  "version": "1.0.0",
+  "description": "A project to build realtime apps fast!",
+  "main": "index.js",
+  "scripts": {
+    "test": "TBD"
+  },
+  "author": "Andrew Meiling",
+  "license": "MIT"
+}
